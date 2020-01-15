@@ -1,0 +1,18 @@
+{
+  "name": "sample-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pavel",
+  "license": "ISC",
+  "dependencies": {
+    "abc": "^0.6.1",
+    "body-parser": "^1.19.0",
+    "botact": "^2.4.2",
+    "cba": "0.0.1",
+    "express": "^4.17.1"
+  }
+}
