@@ -33,14 +33,15 @@ server.listen(PORT, ()=>console.log('Bot listen: '+ PORT))
 {
   type: 'message_new',
   object: {
-    date: 1579426548,
+    id: 435,
+    date: 1579630480,
     out: 0,
-    user_id: 157056486,
+    user_id: 154288123,
     read_state: 0,
     title: '',
-    body: '1',
+    body: 'Зачем эта кнопка?',
     owner_ids: []
   },
   group_id: 190842550,
-  event_id: '67fd6255dac4e7380f01420dec41a197d135269b'
-} */
+  event_id: '124030913d5d52e474bc897f1fd2b1f6976875a8'
+}*/
