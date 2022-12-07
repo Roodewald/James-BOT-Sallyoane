@@ -10,10 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "abc": "^0.6.1",
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "botact": "^2.4.2",
     "cba": "0.0.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "vk-easy": "^1.4.1"
   },
   "devDependencies": {
